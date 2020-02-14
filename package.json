@@ -4,9 +4,14 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "axios": "^0.19.2",
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
     "cors": "^2.8.3",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "react-chartjs-2": "^2.9.0",
+    "styled-components": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.17.2"
